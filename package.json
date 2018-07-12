@@ -1,0 +1,25 @@
+{
+  "name": "image_downloader",
+  "version": "0.0.1",
+  "private": true,
+  "dependencies": {
+    "@types/mkdirp": "^0.5.2",
+    "@types/puppeteer": "^1.5.0",
+    "@types/request": "^2.47.1",
+    "@types/sleep": "^0.0.7",
+    "mkdirp": "^0.5.1",
+    "puppeteer": "^1.5.0",
+    "request": "^2.87.0",
+    "ts-node": "^7.0.0",
+    "typescript": "^2.9.2",
+    "sleep": "^5.1.1"
+  },
+  "scripts": {
+    "start": "ts-node main.ts"
+  },
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/malt03/image_downloader/issues"
+  },
+  "homepage": "https://github.com/malt03/image_downloader#readme"
+}
